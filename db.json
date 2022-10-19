@@ -1,0 +1,375 @@
+{
+  "users": [
+    {
+      "name": "Leanne 1",
+      "cashback": "23",
+      "website": "hildegard.org",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "cashback": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "cashback": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "cashback": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "cashback": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "cashback": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "cashback": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "cashback": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "cashback": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "cashback": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "Hello",
+      "cashback": "5",
+      "website": "www.google.com",
+      "id": 11
+    },
+    {
+      "name": "Hello2",
+      "cashback": "10",
+      "website": "www.google.com",
+      "id": 12
+    },
+    {
+      "name": "",
+      "cashback": "",
+      "website": "",
+      "id": 13
+    },
+    {
+      "name": "Leanne 2",
+      "cashback": "200",
+      "website": "www.hitmebaby.com",
+      "id": 14
+    },
+    {
+      "username": "aneeqnazir@gmail.com",
+      "password": "Password@1",
+      "id": 15
+    }
+  ],
+  "cities": [
+    {
+      "name": "Victoria1",
+      "region": "Asia",
+      "country": "Hong Kong1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Astana",
+      "region": "Asia",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "id": 3,
+      "name": "P'yongyang",
+      "region": "Asia",
+      "country": "KOREA, NORTH"
+    },
+    {
+      "id": 4,
+      "name": "Beijing",
+      "region": "Asia",
+      "country": "CHINA"
+    },
+    {
+      "name": "Test",
+      "region": "Test Region",
+      "country": "Test",
+      "id": 5
+    },
+    {
+      "name": "Lahore",
+      "region": "",
+      "country": "Pakistan",
+      "id": 6
+    },
+    {
+      "name": "Abdul's City",
+      "region": "",
+      "country": "Abduliland",
+      "id": 7
+    },
+    {
+      "name": "Lahore",
+      "region": "South Asia",
+      "country": "Pakistan",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "Black House, White Temple, and Blue Temple Trip by Oriental Holiday1",
+      "region": "East Asia",
+      "country": "Thailand",
+      "city": "Chiang Mai",
+      "price": 29.4,
+      "productURL": "https://www.klook.com/activity/380-black-house-white-temple-trip-chiang-mai/#krt=r22&krid=1d5ded1a-96da-413e-55b0-1740eb769f6c",
+      "productImage": "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_375,h_210/activities/fpht6jzhvy8fcyh7olem.webp",
+      "affiliateName": "Klook",
+      "id": 1
+    },
+    {
+      "name": "[Limited Offer] Fireman Show Ticket",
+      "region": "East Asia",
+      "country": "South Korea",
+      "city": "Seoul",
+      "price": "£ 12.00",
+      "productURL": "https://www.klook.com/activity/1973-fireman-show-seoul/#krt=r22&krid=0488dfc9-7cb8-44ab-50db-09b4222cbf87",
+      "productImage": "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_375,h_210/activities/nke12ushvow7b3smntko.webp",
+      "affiliateName": "Klook",
+      "id": 2
+    },
+    {
+      "name": "Nusa Lembongan and Nusa Ceningan Full Day Tour",
+      "region": "South East Asia",
+      "country": "Indonesia",
+      "city": "Bali",
+      "price": "£ 34.49",
+      "productURL": "https://www.klook.com/activity/21676-nusa-lembongan-ceningan-tour-bali/#krt=r22&krid=558c013a-c6a2-4bb9-534f-1ecda3a47689",
+      "productImage": "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_375,h_210/activities/arclmeybhwl3x5ef4iby.webp",
+      "affiliateName": "Klook",
+      "id": 3
+    },
+    {
+      "name": "Nha Trang by Night Private Vespa Tour",
+      "region": "South East Asia",
+      "country": "Vietnam",
+      "city": "Nha Trang",
+      "price": "£ 49.55",
+      "productURL": "https://www.klook.com/activity/35509-nha-trang-night-private-vespa-tour/#krt=r22&krid=8c300b58-1b9a-47bc-4ca0-5696444fcc0d",
+      "productImage": "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_375,h_210/activities/ptf33ae7iiekcrfctyjw.webp",
+      "affiliateName": "Klook",
+      "id": 4
+    },
+    {
+      "name": "Upside Down House Gallery Melaka Admission Ticket",
+      "region": "South East Asia",
+      "country": "Malaysia",
+      "city": "Melaka",
+      "price": "£ 2.90",
+      "productURL": "https://www.klook.com/activity/12288-upside-down-house-gallery-admission-ticket-melaka/#krt=r22&krid=f491c7fb-db0c-4a40-7ef8-70e9d4526e2e",
+      "productImage": "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_375,h_210/activities/w3tey2fi1swyxmzguy5b.webp",
+      "affiliateName": "Klook",
+      "id": 5
+    },
+    {
+      "name": "Spa Experience at Melia Purosani Yogyakarta",
+      "region": "South East Asia",
+      "country": "Indonesia",
+      "city": "Yogyakarta",
+      "price": "£ 6.29",
+      "productURL": "https://www.klook.com/activity/46757-spa-experience-melia-purosani-yogyakarta/#krt=r22&krid=52021805-d439-4098-7f06-a0a8a74bb001",
+      "productImage": "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_375,h_210/activities/jmt3tnyxscnk0kbnq3iy.webp",
+      "affiliateName": "Klook",
+      "id": 6
+    },
+    {
+      "name": "Similan Islands Tour by Speed Catamaran",
+      "region": "East Asia",
+      "country": "Thailand",
+      "city": "Phuket",
+      "price": "£ 91.39",
+      "productURL": "https://www.klook.com/activity/17119-similan-islands-tour-speedboat-phuket/#krt=r22&krid=dba06e61-b667-49e7-48da-4305ca4a03c1",
+      "productImage": "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_375,h_210/activities/biwexawy8g1u1fuzwbc7.webp",
+      "affiliateName": "Klook",
+      "id": 7
+    }
+  ]
+}

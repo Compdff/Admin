@@ -1,0 +1,15 @@
+.tablecount {
+    -webkit-column-count: 2 !important;
+    height:430px;
+}
+.w100 {
+    width: 100px;
+}
+
+.w10 {
+    width: 10px;
+}
+.updateButton {
+    margin-right: 67px;
+    margin-bottom: 25px;
+}
